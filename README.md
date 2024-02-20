@@ -1,2 +1,3 @@
-# SoftUni-OOP-Exercise
- Exercise-OOP
+# SoftUni-OOP
+Lab
+Exercise-OOP
