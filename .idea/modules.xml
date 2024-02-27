@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceAndAbstraction/InterfaceAndAbstraction.iml" filepath="$PROJECT_DIR$/InterfaceAndAbstraction/InterfaceAndAbstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceAndAbstraction/Lab/Lab.iml" filepath="$PROJECT_DIR$/InterfaceAndAbstraction/Lab/Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftUni-OOP-Exercise.iml" filepath="$PROJECT_DIR$/SoftUni-OOP-Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkingWhitAbstarction/WorkingWhitAbstarction.iml" filepath="$PROJECT_DIR$/WorkingWhitAbstarction/WorkingWhitAbstarction.iml" />
+    </modules>
+  </component>
+</project>
